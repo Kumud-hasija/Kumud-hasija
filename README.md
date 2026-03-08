@@ -20,14 +20,14 @@
 # Hello, I'm Kumud Hasija! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
 
 ### :woman_technologist: About Me :
-I'm a passionate software developer with a strong interest in AI/ML, web development, and robotics.  
+I am a passionate software developer with a strong interest in AI/ML, web development, and robotics.  
 
 🔭 Currently working on AI/ML, web development, and robotics.  
 🤝 Looking to collaborate on open-source, web, AI, and robotics projects.  
 🌱 Exploring deep learning, artificial intelligence, and robotics.  
 🎓 Studying B.Tech CSE (DSAI) at SRM University with a CGPA of 9.12.  
 💬 Ask me about Python, C++, MERN stack, databases, big data, ML, and AI.  
-⚡ Fun fact: I secured 2nd place in a UI/UX hackathon and won a national-level drawing competition! 
+⚡ Fun fact: I secured 2nd place in a UI/UX hackathon and won a national level drawing competition! 
 <br>📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumud-hasija-060b172a2/)        [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumud.hasija@hotmail.com) 
 
